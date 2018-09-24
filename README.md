@@ -1,4 +1,4 @@
-# reactpra_goalcoach
+# reactPra_goalcoach
 A react practise project.
 
 - Ths react web application allows user to signin and signup.
